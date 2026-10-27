@@ -1,4 +1,4 @@
-```markdown
+
 # Simple Linear Regression Model
 
 A simple linear regression model models the relationship between a continuous target variable and explanatory features. This project trains a model to predict CO2 emissions based on engine size.
@@ -10,7 +10,7 @@ First, `numpy`, `pandas`, `scikit-learn`, and `matplotlib` are installed and imp
 Then, the dataset is obtained using the following URL:
 ```python
 url = "https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-ML0101EN-SkillsNetwork/labs/Module%202/data/FuelConsumptionCo2.csv"
-```
+
 
 The data is read using `pandas`:
 ```python
